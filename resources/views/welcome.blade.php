@@ -81,7 +81,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Rusa Gedek Sekali yaa
+                    Rusa Gedek Sekali yaa <br>
+                    mamamia
                 </div>
 
                 <div class="links">
