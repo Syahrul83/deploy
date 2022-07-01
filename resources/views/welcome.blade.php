@@ -82,7 +82,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     Rusa Gedek Sekali yaa <br>
-                    mamamia
+                    mamamia jojo
                 </div>
 
                 <div class="links">
